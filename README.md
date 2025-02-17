@@ -5,4 +5,4 @@ This repo is where I will store them.
 <hr>
 
 <h2> ISSessions CTF 2025: </h2>
-<a href="https://h4ckth3p1an3t.livejournal.com/384.html" target="blank">SOS (Crypto)</a>
+<a href="https://h4ckth3p1an3t.livejournal.com/384.html" target="__blank__">SOS (Crypto)</a>
