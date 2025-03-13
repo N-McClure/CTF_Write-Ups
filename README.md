@@ -7,3 +7,7 @@ This repo is where I will store the links to them, the live articles are hosted 
 
 <h2> ISSessions CTF 2025: </h2>
 <a href="https://h4ckth3p1an3t.livejournal.com/384.html" target="__blank__">SOS (Crypto)</a>
+
+<hr>
+
+<h2> Cyber Apocalypse CTF 2025 | Tales from Eldoria: </h2>
