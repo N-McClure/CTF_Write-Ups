@@ -1,7 +1,7 @@
 # CTF_Write-Ups
 I am going to try to start writing write-ups to some of the challenges that I complete and attempt at CTFs that I attend. <br>
 This repo is where I will store the links to them, the live articles are hosted on my blog. <br>
-<strong>My Blog: </strong> <a href="https://h4ckth3p1an3t.livejournal.com" target="__blank__"> h4ckth3p1an3t's Hacking and CTF Write-Ups </a>
+<strong>My Blog: </strong> <a href="https://h4ckth3p1an3t.livejournal.com/" target="__blank__"> h4ckth3p1an3t's Hacking and CTF Write-Ups </a>
 
 <hr>
 
