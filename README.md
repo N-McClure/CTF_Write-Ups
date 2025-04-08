@@ -10,4 +10,4 @@ This repo is where I will store the links to them, the live articles are hosted 
 
 <hr>
 
-<h2> Try Hack Me | Hackfinity Battle CTF: </h2>
+
