@@ -10,6 +10,8 @@ Below are the links to them, the live articles are hosted on my blog. <br>
 <h2> ISSessions CTF 2025: </h2>
 <a href="https://n-mcclure.github.io/blog-post.html?slug=iss-ctf-2025-crypto-sos" target="__blank__">SOS (Crypto)</a>
 
+<h2> CyberSci 2025 (Regionals): </h2>
+
 <hr>
 
 # Hacking & Research Write-Ups
