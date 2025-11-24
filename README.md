@@ -11,6 +11,7 @@ Below are the links to them, the live articles are hosted on my blog. <br>
 <a href="https://n-mcclure.github.io/blog-post.html?slug=iss-ctf-2025-crypto-sos" target="__blank__">SOS (Crypto)</a>
 
 <h2> CyberSci 2025 (Regionals): </h2>
+<a href="https://n-mcclure.github.io/blog-post.html?slug=cybersci-ctf-2025-they-didnt-listen-warmup" target="__blank__"> They Didn't Listen (Warmup)</a>
 
 <hr>
 
